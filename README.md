@@ -8,11 +8,13 @@ The StandardFirmata firmware is verified and uploaded to the board.
 From the terminal:
 
   $ mkdir your-project-name
+  
   $ cd your-project-name
   
 From the node package manager the following modules are required:
 
   $ npm install plotly
+  
   $ npm install johnny-five
   
 Using the following command to set up the connection and start real-time measurements:
