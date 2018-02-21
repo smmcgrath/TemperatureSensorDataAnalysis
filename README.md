@@ -22,3 +22,5 @@ Using the following command to set up the connection and start real-time measure
   $ node tmp36.js
   
 Or node followed by the name of your script file.
+
+<https://plot.ly/arduino/tmp36-temperature-tutorial/>
