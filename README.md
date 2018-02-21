@@ -21,4 +21,4 @@ Using the following command to set up the connection and start real-time measure
 
   $ node tmp36.js
   
-Or node <your script file>
+Or node followed by the name of your script file.
